@@ -1,0 +1,19 @@
+{
+  "deliveryLocation": {
+    "country": "United States",
+    "zipCode": "10001"
+  },
+  "search": {
+    "keyword": "mazda mx-5",
+    "titleKeywords": "mazda,mx-5,mx5,miata"
+  },
+  "filter": {
+    "name": "Transmission",
+    "value": "Manual"
+  },
+  "assertions": {
+    "homePageTitle": "eBay",
+    "homePageUrl": "ebay.com",
+    "deliveryCountry": "United States"
+  }
+}
