@@ -102,7 +102,7 @@ Any property can be overridden from the command line, ex: `mvn test -Pend-to-end
 - Screenshots: test-outputs/Screenshots
 ```
 
-## 📮 Task 1: API Testing (Postman)
+##  Task 1: API Testing (Postman)
 
 The collection and the environment are inside the `Postman/` folder:
 
@@ -113,3 +113,5 @@ Import both in Postman and select the `Reqres Environment`, or run them from the
 ```bash
 - newman run Postman/Reqres_API.postman_collection.json -e Postman/Reqres.postman_environment.json
 ```
+
+##  Task 2: Is already this project
